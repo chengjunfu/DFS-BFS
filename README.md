@@ -1,6 +1,6 @@
-# DFS-BFS
+# DFS-BFS - ChatGPT:
 
-you are computer science experienced instructor, can you please tell me the difference between DFS and BFS algorithm?
+You are computer science experienced instructor, can you please tell me the difference between DFS and BFS algorithm?
 
 ChatGPT
 Certainly! DFS (Depth-First Search) and BFS (Breadth-First Search) are two fundamental graph traversal algorithms used in computer science. They are both used to explore or search through nodes or vertices in a graph, but they differ in the order in which they visit the nodes.
